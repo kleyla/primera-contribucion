@@ -1,1 +1,3 @@
 # Contribuidores
+
+Sergio Lopez
